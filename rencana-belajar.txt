@@ -6,3 +6,4 @@ rencana belajar terdekat
   laravel
   codigniter
 - react js
+- sql database
