@@ -1,0 +1,5 @@
+rencana belajar terdekat 
+- git
+- javascript
+- php
+- react js
