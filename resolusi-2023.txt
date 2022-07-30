@@ -1,0 +1,7 @@
+Resolusi target belajar tahun 2023
+
+- Hml (done)
+- Css (done)
+- Bootstrap (done)
+- Javascript
+- React JS
