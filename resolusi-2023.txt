@@ -6,5 +6,6 @@ Resolusi target belajar tahun 2023
 - Javascript
 - React JS
 
+- php
 - codeigniter
 
