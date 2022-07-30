@@ -3,4 +3,6 @@ rencana belajar terdekat
   sedang dilakukan
 - javascript
 - php
+  codigniter
 - react js
+- sql database
