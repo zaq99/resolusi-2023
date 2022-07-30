@@ -1,0 +1,6 @@
+rencana belajar terdekat 
+- git
+  sedang dilakukan
+- javascript
+- php
+- react js
