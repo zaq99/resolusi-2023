@@ -5,3 +5,6 @@ Resolusi target belajar tahun 2023
 - Bootstrap (done)
 - Javascript
 - React JS
+
+- codeigniter
+- laravel 
